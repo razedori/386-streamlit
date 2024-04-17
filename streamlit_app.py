@@ -5,8 +5,8 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 
-file_path = "/Users/razedori/Stat251/Project/data2.csv"
-df = pd.read_csv(file_path)
+url = "https://raw.githubusercontent.com/razedori/386-streamlit/main/data2.csv"
+df = pd.read_csv(url)
 
 # Sidebar: Top 10 movie ratings
 st.sidebar.header("Top 10 Movie Ratings")
