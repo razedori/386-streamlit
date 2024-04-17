@@ -1,0 +1,9 @@
+# D:\dev\popular_names\popularnames.py: 1
+pandas
+
+# D:\dev\popular_names\popularnames.py: 2,6
+plotly
+
+# D:\dev\popular_names\popularnames.py: 1
+streamlit
+matplotlib
